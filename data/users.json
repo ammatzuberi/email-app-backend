@@ -1,1 +1,57 @@
-[{"email":"sheharyarsmadil@gmail.com","password":"$2b$10$yBmeWwNX8J/pw8xU0J4pW.ZxA2JlTGMtb40aApBQUBxYYzec2.Jly","role":"user"},{"email":"ammat@gmail.com","password":"$2b$10$Ym64ix5tcbrkOXQWJMEBt.d5Lp2olJ33lwp2y1kzJyDIvI8pvJL/m","role":"user"},{"email":"abdulahadwasim@gmail.com","password":"$2b$10$QQKZVOHBfgJH6IW2AiBcjOjS3Wc3RlFXrsu67sgilbHlle34dolSS","role":"user"},{"email":"ammatzuberi@gmail.com","password":"$2b$10$OUXL0vFJUfqzmrmxaYIFfOTh/qn4jYw9KDqVWVBcyye/dP5z4dSgW","role":"user"},{"email":"admin@enggenv.com","password":"$2b$10$yBmeWwNX8J/pw8xU0J4pW.ZxA2JlTGMtb40aApBQUBxYYzec2.Jly","role":"admin"},{"email":"azakmi@gmail.com","password":"$2b$10$K7PsldcgpZgG0jsoaoQaWeV5psRpvYccWpEwaDbuqJ1mwUCIDGpl2","role":"user"}]
+[
+    {
+        "email": "sheharyarsmadil@gmail.com",
+        "password": "$2b$10$yBmeWwNX8J/pw8xU0J4pW.ZxA2JlTGMtb40aApBQUBxYYzec2.Jly",
+        "role": "user"
+    },
+    {
+        "email": "ammat@gmail.com",
+        "password": "$2b$10$232Cchy9GdWj/5N0an4g0ORbZqO1pK2ZeTG0A6hHrUgrhOGObptau",
+        "role": "user"
+    },
+    {
+        "email": "abdulahadwasim@gmail.com",
+        "password": "$2b$10$QQKZVOHBfgJH6IW2AiBcjOjS3Wc3RlFXrsu67sgilbHlle34dolSS",
+        "role": "user"
+    },
+    {
+        "email": "ammatzuberi@gmail.com",
+        "password": "$2b$10$OUXL0vFJUfqzmrmxaYIFfOTh/qn4jYw9KDqVWVBcyye/dP5z4dSgW",
+        "role": "user"
+    },
+    {
+        "email": "admin@enggenv.com",
+        "password": "$2b$10$yBmeWwNX8J/pw8xU0J4pW.ZxA2JlTGMtb40aApBQUBxYYzec2.Jly",
+        "role": "admin"
+    },
+    {
+        "email": "azakmi@gmail.com",
+        "password": "$2b$10$232Cchy9GdWj/5N0an4g0ORbZqO1pK2ZeTG0A6hHrUgrhOGObptau",
+        "role": "user"
+    },
+    {
+        "email": "ammtzuberi@gmail.com",
+        "password": "$2b$10$l2cCkA3EwtewnzrON1l1Xejur9LgJbclToEWYQJPrzL9ZjjwF7tIq",
+        "role": "user"
+    },
+    {
+        "email": "adil@enggen.co",
+        "password": "$2b$10$KlZArn1FnE5ad8B6YfK/6.Tkl479pH763M9AwoqbfcpV1Dzm.Dhq2",
+        "role": "user"
+    },
+    {
+        "email": "abdulhaseeb@gmail.com",
+        "password": "$2b$10$x1GErp5ZIptb6qGNL6saf.QnhBhfqhbbeR2PyKUMdNCXXHhyiMX1.",
+        "role": "user"
+    },
+    {
+        "email": "fahad@enggenv.com",
+        "password": "$2b$10$66KVg1uIPxvEh6ddzHl2MO2QJDWZITffKSOlUQ6PT1ACH7icpBcRa",
+        "role": "user"
+    },
+    {
+        "email": "fahad1@enggenv.com",
+        "password": "$2b$10$Z/5U7kg5nDA90YK1uMAWJeQDKGdQ9Qc69En/aZSN7ypZwYCAEKGmi",
+        "role": "user"
+    }
+]
